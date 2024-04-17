@@ -213,7 +213,7 @@ df.head()
 
 ## To regenerate the graph with LLM, set this to True
 ##################
-regenerate = False  # toggle to True if the time-consuming (re-)generation of the knowlege extraction is required
+regenerate = True  # toggle to True if the time-consuming (re-)generation of the knowlege extraction is required
 ##################
 if regenerate:
 #########################################################    
